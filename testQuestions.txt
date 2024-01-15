@@ -1,0 +1,26 @@
+What is the largest city in British Columbia?;Toronto;Vancouver;Victoria;Abbotsford;b;5
+What is the capital of British Columbia?;Vancouver;Toronto;Victoria;Kelowna;c;5
+Which city is the home to North America's largest mall?;Los Angeles;Toronto;Washington DC;Edmonton;d;5
+What is the Canada's national sport?;Hockey;Swimming;ski jumping;baseball;a;5
+What is the capital of Canada?;Monteral;Toronto;Saskatchewan;Ottawa;d;5
+What is the national animal of Canada?;Grizzly Bear;Canadian Goose;Moose;Beaver;d;5
+How much is loonie?;3;2;1;5;c;5
+When was Vancouver,BC founded?;1881;1883;1886;1892;c;5
+Which one of the choices is a university in BC?;SFU;UoT;UCLA;Harvard;a;5
+What is the most populated city in the world?;Tokyo;Shangai;Delhi;New York;a;5
+When was Canada founded?;1881;1876;1867;1863;c;5
+What is 54//3 in python return?;15.0;15;18.0;18;c;5
+When is Turkey did become a republic?;1920;1919;1923;1938;c;5
+When is Christmas celebrated each year?;27th of December;25th of December;19th of December;1st of January;b;5
+What is a list index start from in python?;3;2;1;0;d;5
+Which car company has a bull in their logo?;Lamborghini;Porsche;BMW;Mercedes;a;5
+Which one is not a color in a rainbow?;black;yellow;green;red;a;5
+What is the biggest continent in the world?;Europe;Australia;Antarctica;Asia;d;5
+Which country has the biggest surface area in the world?;China;India;Russia;USA;c;5
+Which is an animal that does not live in a cold weather?;Camel;Bear;Moose;Eagle;a;5 
+
+
+
+
+
+
